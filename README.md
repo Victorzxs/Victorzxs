@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Meu nome é João Victor Mendes Assunção, tenho 18 anos, cursei o ensino médio no IFCE campus maranguape, foi um ensino intgrado a um curso técnico, que no caso foi um técnico em informática [github-EM](https://github.com/jota-vee). Atualmente estou em uma graduação em Ciência de Dados na UFC.
+Meu nome é João Victor Mendes Assunção, tenho 18 anos, cursei o ensino médio no IFCE campus maranguape, foi um ensino intgrado a um curso técnico, que no caso foi um técnico em informática ([github-EM](https://github.com/jota-vee)). Atualmente estou em uma graduação em Ciência de Dados na UFC.
 <!--
 **Victorzxs/Victorzxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
