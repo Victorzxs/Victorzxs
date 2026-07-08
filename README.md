@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
 
 ![](https://img.shields.io/badge/Python-yellow?logo=python)
-![](https://img.shields.io/badge/SQLite-lightblue?logo=sqlite)
-![](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B) 
+![](https://img.shields.io/badge/SQLite-lightblue?logo=sqlite) 
 ![](https://img.shields.io/badge/HTML-orange?logo=html5) 
 ![](https://img.shields.io/badge/CSS-blue?logo=css3) 
 ![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
