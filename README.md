@@ -18,25 +18,21 @@ Here are some ideas to get you started:
 
 ## Estatísticas do github
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jota-vee&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Victorzxs&theme=tokyonight&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Victorzxs&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorzxs&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ## linguagens e ferramentas
-![](https://img.shields.io/badge/Arduino_IDE-green?logo=arduino)
 ![](https://img.shields.io/badge/Github-black?logo=github)
 ![](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
-![](https://img.shields.io/badge/Eclipse-2c2255?logo=eclipse)
 
-![](https://img.shields.io/badge/Python-yellow?logo=python) 
-![](https://img.shields.io/badge/Java-red?logo=java) 
+![](https://img.shields.io/badge/Python-yellow?logo=python)
+![](https://img.shields.io/badge/SQLite-lightblue?logo=sqlite)
 ![](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B) 
-![](https://img.shields.io/badge/Shell-black?logo=linux) 
 ![](https://img.shields.io/badge/HTML-orange?logo=html5) 
 ![](https://img.shields.io/badge/CSS-blue?logo=css3) 
 ![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![](https://img.shields.io/badge/SQLite-lightblue?logo=sqlite)
-
+![](https://img.shields.io/badge/Shell-black?logo=linux) 
